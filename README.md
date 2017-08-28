@@ -2,4 +2,4 @@
 Independent study for summer elective
 Creating a mobile devices app for iOS/Android for processing images using openCV library 
 
-currently working on developing Tools to be included in app for processing 
+Most elements work; issues with blurbar(pipeline?), Save Button, and a few other things anyone is free to make pull requests.
